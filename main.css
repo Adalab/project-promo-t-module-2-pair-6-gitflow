@@ -4,6 +4,10 @@
     position: relative;
     width: 100px;
   }
+  .page{
+    display: flex;
+    justify-content: center;
+  }
   .face {
     font-family: 'courier new', serif;
     font-size: 2.5em;
